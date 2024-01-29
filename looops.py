@@ -1,5 +1,6 @@
 #while loop
 i=3
-while 1!=0:
-    print(i--)
+while i!=0:
+    print(i)
+    i=i-1
     print("meow")
